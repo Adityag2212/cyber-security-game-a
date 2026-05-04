@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/aditya-cyber-project/static/css/main.d257d5c8.css",
+    "main.js": "/aditya-cyber-project/static/js/main.dd4215ce.js",
+    "static/js/787.6659c709.chunk.js": "/aditya-cyber-project/static/js/787.6659c709.chunk.js",
+    "static/media/logo.png": "/aditya-cyber-project/static/media/logo.62265e08df824f6d97ab.png",
+    "static/media/background.png": "/aditya-cyber-project/static/media/background.5e783dd5c39791140537.png",
+    "static/media/Bot.png": "/aditya-cyber-project/static/media/Bot.73c0f5e558c5ab8c3cfe.png",
+    "index.html": "/aditya-cyber-project/index.html",
+    "main.d257d5c8.css.map": "/aditya-cyber-project/static/css/main.d257d5c8.css.map",
+    "main.dd4215ce.js.map": "/aditya-cyber-project/static/js/main.dd4215ce.js.map",
+    "787.6659c709.chunk.js.map": "/aditya-cyber-project/static/js/787.6659c709.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d257d5c8.css",
+    "static/js/main.dd4215ce.js"
+  ]
+}
